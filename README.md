@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # hello-world
 hello world repository
 
@@ -8,3 +13,6 @@ hello world repository
   ### Dani dsadasda
 ####AKRV
 >>>>>>> 630a028e60bcb66b6737a31b6bd63ea04ce3a1aa
+
+![image info](rafa-gorgory.jpg)
+
