@@ -17,7 +17,7 @@ hello world repository
 <<<<<<< HEAD
 ![image info](rafa-gorgory.jpg)
 =======
-The line equation is: $y = mx + b$.
+The line equation is: $`y = mx + b`$.
 
 $$
 y = mx + b
